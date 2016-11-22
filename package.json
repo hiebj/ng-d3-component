@@ -1,0 +1,22 @@
+{
+  "name": "ng-d3-component",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiebj/ng-d3-component.git"
+  },
+  "author": "Jonathan Hieb",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "d3",
+    "d3-axis"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
