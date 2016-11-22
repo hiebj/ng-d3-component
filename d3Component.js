@@ -1,5 +1,5 @@
 angular
-    .module('d3-component')
+    .module('d3-component', [])
     .directive('d3Component', d3Component);
 
 function d3Component($window, $log) {

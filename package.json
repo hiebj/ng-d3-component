@@ -1,7 +1,7 @@
 {
   "name": "ng-d3-component",
   "version": "0.0.0",
-  "description": "",
+  "description": "AngularJS directive that will bind a specified D3 component (e.g. axis) to an SVG element and configure it",
   "repository": {
     "type": "git",
     "url": "https://github.com/hiebj/ng-d3-component.git"
